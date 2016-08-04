@@ -27,6 +27,7 @@ scrollPoint2 = 1500
 scrollPoint3 = 3650
 transitionTime = .08
 
+# Import Assets
 # Import list of stories
 storyFeed = new Layer
 	width: 1024
@@ -67,7 +68,7 @@ playerAndSponsorship = new Layer
 	image: "images/static-player@2x.png"
 	x: 710
 
-# Sticky header animations
+# Sticky Header Animations
 feedScroll.on Events.Scroll, ->
 	# First sticky header
 	if feedScroll.scrollY > scrollPoint1
