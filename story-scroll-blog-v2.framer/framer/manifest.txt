@@ -1,0 +1,71 @@
+app.coffee
+app.js
+framer/backups/backup-2016-08-04 14.13.14.coffee
+framer/backups/backup-2016-08-04 15.43.14.coffee
+framer/backups/backup-2016-08-04 15.44.14.coffee
+framer/backups/backup-2016-08-05 15.09.22.coffee
+framer/backups/backup-2016-08-05 15.12.22.coffee
+framer/backups/backup-2016-08-05 15.17.22.coffee
+framer/backups/backup-2016-08-05 15.18.22.coffee
+framer/backups/backup-2016-08-05 15.20.22.coffee
+framer/backups/backup-2016-08-05 15.21.22.coffee
+framer/backups/backup-2016-08-05 15.23.22.coffee
+framer/backups/backup-2016-08-05 15.24.22.coffee
+framer/backups/backup-2016-08-05 15.25.22.coffee
+framer/backups/backup-2016-08-05 15.27.23.coffee
+framer/backups/backup-2016-08-05 15.28.22.coffee
+framer/backups/backup-2016-08-05 15.29.22.coffee
+framer/backups/backup-2016-08-05 15.30.22.coffee
+framer/backups/backup-2016-08-05 15.31.22.coffee
+framer/backups/backup-2016-08-05 15.32.22.coffee
+framer/backups/backup-2016-08-05 16.51.22.coffee
+framer/backups/backup-2016-08-05 16.52.22.coffee
+framer/backups/backup-2016-08-05 16.53.22.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/metadata.json
+framer/mirror.css
+framer/preview.png
+framer/social-1200x630.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/fixed-elements-hp.png
+images/scroll-blog-content-v2.jpg
+images/scroll-blog-content-v3.jpg
+images/scroll-blog-content@2x.jpg
+images/sponsorship-three.png
+images/sponsorship-two.png
+images/static-player@2x.png
+images/sticky-header-1.png
+images/sticky-header-2.png
+images/sticky-header-3.png
+images/sticky-header-global.png
+images/subscribed.png
+images/v6-2.jpg
+index.html
+modules/myModule.coffee
